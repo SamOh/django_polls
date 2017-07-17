@@ -1,0 +1,3 @@
+django-tutorial
+*.pyc
+*.DS_Store
